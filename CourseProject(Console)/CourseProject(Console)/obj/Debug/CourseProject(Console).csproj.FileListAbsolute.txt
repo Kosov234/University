@@ -1,0 +1,6 @@
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\CourseProject(Console)\CourseProject(Console)\bin\Debug\CourseProject(Console).exe.config
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\CourseProject(Console)\CourseProject(Console)\bin\Debug\CourseProject(Console).exe
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\CourseProject(Console)\CourseProject(Console)\bin\Debug\CourseProject(Console).pdb
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\CourseProject(Console)\CourseProject(Console)\obj\Debug\CourseProject(Console).csprojResolveAssemblyReference.cache
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\CourseProject(Console)\CourseProject(Console)\obj\Debug\CourseProject(Console).exe
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\CourseProject(Console)\CourseProject(Console)\obj\Debug\CourseProject(Console).pdb
