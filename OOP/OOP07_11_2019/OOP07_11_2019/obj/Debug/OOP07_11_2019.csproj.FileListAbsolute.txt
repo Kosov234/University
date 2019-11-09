@@ -1,0 +1,6 @@
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\ObjectedOrientedProgramming\Second exercises\OOP07_11_2019\OOP07_11_2019\bin\Debug\OOP07_11_2019.exe.config
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\ObjectedOrientedProgramming\Second exercises\OOP07_11_2019\OOP07_11_2019\bin\Debug\OOP07_11_2019.exe
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\ObjectedOrientedProgramming\Second exercises\OOP07_11_2019\OOP07_11_2019\bin\Debug\OOP07_11_2019.pdb
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\ObjectedOrientedProgramming\Second exercises\OOP07_11_2019\OOP07_11_2019\obj\Debug\OOP07_11_2019.csprojResolveAssemblyReference.cache
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\ObjectedOrientedProgramming\Second exercises\OOP07_11_2019\OOP07_11_2019\obj\Debug\OOP07_11_2019.exe
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\ObjectedOrientedProgramming\Second exercises\OOP07_11_2019\OOP07_11_2019\obj\Debug\OOP07_11_2019.pdb
