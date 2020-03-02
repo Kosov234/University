@@ -1,0 +1,11 @@
+C:\Users\acosov\source\repos\Class7\Class7\bin\Debug\netcoreapp2.1\Class7.deps.json
+C:\Users\acosov\source\repos\Class7\Class7\bin\Debug\netcoreapp2.1\Class7.runtimeconfig.json
+C:\Users\acosov\source\repos\Class7\Class7\bin\Debug\netcoreapp2.1\Class7.runtimeconfig.dev.json
+C:\Users\acosov\source\repos\Class7\Class7\bin\Debug\netcoreapp2.1\Class7.dll
+C:\Users\acosov\source\repos\Class7\Class7\bin\Debug\netcoreapp2.1\Class7.pdb
+C:\Users\acosov\source\repos\Class7\Class7\obj\Debug\netcoreapp2.1\Class7.csprojAssemblyReference.cache
+C:\Users\acosov\source\repos\Class7\Class7\obj\Debug\netcoreapp2.1\Class7.csproj.CoreCompileInputs.cache
+C:\Users\acosov\source\repos\Class7\Class7\obj\Debug\netcoreapp2.1\Class7.AssemblyInfoInputs.cache
+C:\Users\acosov\source\repos\Class7\Class7\obj\Debug\netcoreapp2.1\Class7.AssemblyInfo.cs
+C:\Users\acosov\source\repos\Class7\Class7\obj\Debug\netcoreapp2.1\Class7.dll
+C:\Users\acosov\source\repos\Class7\Class7\obj\Debug\netcoreapp2.1\Class7.pdb
