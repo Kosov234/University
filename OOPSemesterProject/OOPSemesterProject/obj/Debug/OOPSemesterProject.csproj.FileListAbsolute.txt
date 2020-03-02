@@ -1,0 +1,12 @@
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\ObjectedOrientedProgramming\OOPFinalProject\OOPSemesterProject\OOPSemesterProject\bin\Debug\OOPSemesterProject.exe.config
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\ObjectedOrientedProgramming\OOPFinalProject\OOPSemesterProject\OOPSemesterProject\bin\Debug\OOPSemesterProject.exe
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\ObjectedOrientedProgramming\OOPFinalProject\OOPSemesterProject\OOPSemesterProject\bin\Debug\OOPSemesterProject.pdb
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\ObjectedOrientedProgramming\OOPFinalProject\OOPSemesterProject\OOPSemesterProject\obj\Debug\OOPSemesterProject.csprojResolveAssemblyReference.cache
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\ObjectedOrientedProgramming\OOPFinalProject\OOPSemesterProject\OOPSemesterProject\obj\Debug\OOPSemesterProject.Form1.resources
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\ObjectedOrientedProgramming\OOPFinalProject\OOPSemesterProject\OOPSemesterProject\obj\Debug\OOPSemesterProject.Properties.Resources.resources
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\ObjectedOrientedProgramming\OOPFinalProject\OOPSemesterProject\OOPSemesterProject\obj\Debug\OOPSemesterProject.csproj.GenerateResource.Cache
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\ObjectedOrientedProgramming\OOPFinalProject\OOPSemesterProject\OOPSemesterProject\obj\Debug\OOPSemesterProject.exe
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\ObjectedOrientedProgramming\OOPFinalProject\OOPSemesterProject\OOPSemesterProject\obj\Debug\OOPSemesterProject.pdb
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\ObjectedOrientedProgramming\OOPFinalProject\OOPSemesterProject\OOPSemesterProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\ObjectedOrientedProgramming\OOPFinalProject\OOPSemesterProject\OOPSemesterProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anime\OneDrive\Документы\Visual Studio 2015\Projects\ObjectedOrientedProgramming\OOPFinalProject\OOPSemesterProject\OOPSemesterProject\bin\Debug\FullPartsList.json

@@ -1,0 +1,236 @@
+{
+  "EngineArray": [
+    {
+      "ID": 101,
+      "Type": "Engine",
+      "Name": "2010 Nissan Rogue 2.5L Engine Motor 4cyl",
+      "Manufacturer": "Nissan",
+      "Description": "Engine for 2010 Nissan Rogue \r\n Horsepower:500",
+      "Horsepower": 500,
+      "AmountLeft": 2,
+      "Price": 5000
+    },
+    {
+      "ID": 102,
+      "Type": "Engine",
+      "Name": "2006 Mercedes W211 E320 Engine Motor",
+      "Manufacturer": "Mercedes",
+      "Description": "Engine for 2006 Mercedes W211",
+      "Horsepower": 300,
+      "AmountLeft": 5,
+      "Price": 500
+    },
+    {
+      "ID": 103,
+      "Type": "Engine",
+      "Name": "2015 Chevrolet Impala Engine Motor 2.5L",
+      "Manufacturer": "Chevrolet",
+      "Description": "Engine for 2015 Chevrolet Impala",
+      "Horsepower": 400,
+      "AmountLeft": 3,
+      "Price": 1000
+    }
+  ],
+  "HeadlightsArray": [
+    {
+      "ID": 301,
+      "Type": "Headlights",
+      "Name": "2018 Dodge Grand Caravan Clear Headlights Lamps",
+      "Manufacturer": "Dodge",
+      "Description": "Front Headlights for 2019 Dodge Grand Caravan",
+      "Color": "White",
+      "AmountLeft": 2,
+      "Price": 500
+    },
+    {
+      "ID": 302,
+      "Type": "Headlights",
+      "Name": "Jeep Wrangler Round LED Headlights",
+      "Manufacturer": "Jeep",
+      "Description": "Front Headlights for Jeep Wrangler",
+      "Color": "White",
+      "AmountLeft": 1,
+      "Price": 700
+    },
+    {
+      "ID": 303,
+      "Type": "Headlights",
+      "Name": "2014 Volkswagen GOLF OLED Neon Tube Headlights",
+      "Manufacturer": "Volkswagen",
+      "Description": "Neon Front Headlights for 2014 Volkswagen GOLF",
+      "Color": "Blue",
+      "AmountLeft": 5,
+      "Price": 1000
+    }
+  ],
+  "SeatsArray": [
+    {
+      "ID": 701,
+      "Type": "Seat",
+      "Name": "2016 BMW X1 F48 SEAT",
+      "Manufacturer": "BMW",
+      "Description": "Sport stiching electric seat",
+      "Color": "Red",
+      "Material": "Polyester",
+      "AmountLeft": 7,
+      "Price": 300
+    },
+    {
+      "ID": 702,
+      "Type": "Seat",
+      "Name": "MINI Cooper R55 R56 R57 SEAT",
+      "Manufacturer": "MINI",
+      "Description": "Sport O/S seat",
+      "Color": "Black",
+      "Material": "Leather",
+      "AmountLeft": 20,
+      "Price": 700
+    },
+    {
+      "ID": 703,
+      "Type": "Seat",
+      "Name": "Seats Fiat Ducato Relay",
+      "Manufacturer": "FIAT",
+      "Description": "Dual sport seats for driver and passenger",
+      "Color": "Orange",
+      "Material": "Leather",
+      "AmountLeft": 10,
+      "Price": 1000
+    }
+  ],
+  "SteeringArray": [
+    {
+      "ID": 601,
+      "Type": "Steering Wheel",
+      "Name": "2016 AUDI A1",
+      "Manufacturer": "AUDI",
+      "Description": "3 Spoke Multifunction steering wheel",
+      "Diameter": 40,
+      "Material": "Leather",
+      "AmountLeft": 7,
+      "Price": 500
+    },
+    {
+      "ID": 602,
+      "Type": "Steering Wheel",
+      "Name": "VOLKSWAGEN VW GOLF POLO PASSAT",
+      "Manufacturer": "VOLKSWAGEN",
+      "Description": "R-LINE steering wheel",
+      "Diameter": 46,
+      "Material": "Polyurethane",
+      "AmountLeft": 20,
+      "Price": 700
+    },
+    {
+      "ID": 603,
+      "Type": "Steering Wheel",
+      "Name": "Genuine BMW M Performance",
+      "Manufacturer": "BMW",
+      "Description": "Expensive steering wheel",
+      "Diameter": 50,
+      "Material": "Carbon/Alcantara",
+      "AmountLeft": 40,
+      "Price": 1000
+    }
+  ],
+  "TireArray": [
+    {
+      "ID": 201,
+      "Type": "Tire",
+      "Name": "Firestone WINTERHAWK",
+      "Manufacturer": "Firestone",
+      "Description": "Designed for passenger cars",
+      "IsWinter": true,
+      "Diameter": 40,
+      "AmountLeft": 7,
+      "Price": 200
+    },
+    {
+      "ID": 202,
+      "Type": "Tire",
+      "Name": "Voyager Summer. 205/55 R16 91W",
+      "Manufacturer": "Voyager",
+      "Description": "Distinguished by reliability and high performance",
+      "IsWinter": false,
+      "Diameter": 46,
+      "AmountLeft": 40,
+      "Price": 300
+    },
+    {
+      "ID": 203,
+      "Type": "Tire",
+      "Name": "Imperial Snowdragon HP",
+      "Manufacturer": "Imperial",
+      "Description": "Economy class tires designed for high-power passenger cars",
+      "IsWinter": true,
+      "Diameter": 50,
+      "AmountLeft": 20,
+      "Price": 128
+    }
+  ],
+  "WheelArray": [
+    {
+      "ID": 501,
+      "Type": "Wheel",
+      "Name": "Wheel-Alloy Wheels - MERCEDES-BENZ - 20 inch",
+      "Manufacturer": "MERCEDES-BENZ",
+      "Description": "White Alaraph Front Wheels OEM",
+      "Diameter": 50,
+      "AmountLeft": 7,
+      "Price": 500
+    },
+    {
+      "ID": 502,
+      "Type": "Wheel",
+      "Name": "Konig 37B Oversteer 19x9.5 5x4.5",
+      "Manufacturer": "KONIG",
+      "Description": "Gloss Black Wheels",
+      "Diameter": 49,
+      "AmountLeft": 10,
+      "Price": 1000
+    },
+    {
+      "ID": 503,
+      "Type": "Wheel",
+      "Name": "Wheel-Alloy Wheels - MERCEDES-BENZ - 18 inch",
+      "Manufacturer": "MERCEDES-BENZ",
+      "Description": "White Armida Rear Wheels OEM",
+      "Diameter": 45,
+      "AmountLeft": 6,
+      "Price": 600
+    }
+  ],
+  "WindowArray": [
+    
+    {
+      "ID": 401,
+      "Type": "Window",
+      "Name": "Mercedes White untinted Glass",
+      "Manufacturer": "Mercedes",
+      "Description": "W123 Sedan Windows",
+      "Color": "White",
+      "AmountLeft": 7,
+      "Price": 500
+    },
+    {
+      "ID": 402,
+      "Type": "Window",
+      "Name": "2007 Genuine Dodge Nitro Glass",
+      "Manufacturer": "Dodge",
+      "Description": "Black Windows for Dodge Nitro",
+      "Color": "Black",
+      "AmountLeft": 10,
+      "Price": 1000
+    },
+    {
+      "ID": 403,
+      "Type": "Window",
+      "Name": "1976 Ford Torino Window Glass",
+      "Manufacturer": "Ford",
+      "Description": "Blue Windows for 1976 Ford Torino",
+      "Color": "Blue",
+      "AmountLeft": 20,
+      "Price": 700
+    }
+  ]
+}
