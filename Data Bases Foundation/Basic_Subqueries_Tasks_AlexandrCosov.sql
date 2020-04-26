@@ -1,0 +1,35 @@
+-- 1
+-- SELECT surname,job
+-- FROM employees
+-- WHERE surname != 'Johnson' AND dept_id IN (SELECT dept_id FROM employees WHERE surname = 'Johnson')
+-- ORDER BY surname
+-- 2
+-- SELECT employees.surname AS surname,employees.job AS job,departments.dept_name AS dept_name
+-- FROM employees INNER JOIN departments
+-- ON employees.dept_id = departments.dept_id
+-- WHERE surname != 'Johnson' AND employees.dept_id IN (SELECT dept_id FROM employees WHERE surname = 'Johnson')
+-- ORDER BY surname
+-- --3
+-- SELECT surname,job,hire_date
+-- FROM employees
+-- WHERE hire_date = (SELECT MIN(hire_date) FROM employees WHERE job = 'LECTURER') and job = 'LECTURER'
+--4
+-- SELECT dept_name, surname, hire_date
+-- FROM employees
+-- JOIN departments USING(dept_id)
+-- WHERE (dept_id, hire_date) IN (SELECT dept_id, MAX(hire_date) FROM employees  GROUP BY dept_id)
+-- ORDER BY dept_name;
+-- 5
+-- SELECT departments.dept_id, departments.dept_name,departments.address
+-- FROM departments
+-- LEFT JOIN employees ON departments.dept_id=employees.dept_id
+-- WHERE employees.dept_id IS NULL
+-- 6
+-- SELECT surname,job,salary
+-- FROM employees
+-- WHERE job = 'PROFESSOR' and emp_id NOT IN (SELECT boss_id FROM employees WHERE job = 'PHD STUDENT')
+-- 7
+-- SELECT dept_name,COUNT(*) AS num_of_empl FROM departments
+-- JOIN employees using(dept_id)
+-- GROUP BY departments,dept_name
+-- HAVING COUNT(*) > (SELECT COUNT(*) FROM employees WHERE dept_id = 10 )
